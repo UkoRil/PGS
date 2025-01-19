@@ -1,0 +1,101 @@
+Items: {
+	Spear: {
+		DisplayName: Spear of Koshitan
+		Tooltip:
+			'''
+
+			Strikes True
+			Burns Thy enemies
+			Electrifies Thou Who Shant Worship The Great One
+			'''
+	}
+
+	Minihakkero: {
+		DisplayName: Mini Hakkero
+		Tooltip:
+			'''
+
+			from the land of the touhou women
+			this sphere seems to be emitting powerful magic
+			'''
+	}
+
+	ShikoAntlers: {
+		Tooltip:
+			'''
+
+			This antler radiates divine energy...
+			'''
+		DisplayName: Shiko Antlers
+	}
+
+	ItallianoDePizzaSword: {
+		Tooltip:
+			'''
+
+			Too hot for the touch...
+			and extra cheessssssyyyy
+			'''
+		DisplayName: Italliano De Pizza
+	}
+
+	starthismfItem: {
+		DisplayName: Star This MF Staff
+		Tooltip:
+			'''
+
+			You got 5 stars Lmao
+			You're now in the Church-of-Goofiness
+			'''
+	}
+
+	Enridemonaxe: {
+		DisplayName: Demon Axe
+		Tooltip:
+			'''
+			once was used as an regular axe...
+			it didnt turn out so well
+			'''
+	}
+
+	Neuncells: {
+		DisplayName: Neun's cells
+		Tooltip:
+			'''
+			Increases Movement speed Greatly
+			10 Defense
+			Gives 6 Regen When not under bleeding and potion sickness debuff, else, gives 4 Regen
+			'''
+	}
+
+	Jokersshovel: {
+		DisplayName: Suspicious Shovel
+		Tooltip:
+			'''
+			Joker own this...
+			It's Probably a Good idea to give it back...
+			'''
+	}
+
+	Durandal: {
+		DisplayName: Durandal
+		Tooltip: A holy sword fit for a Holy knight
+	}
+}
+
+Projectiles: {
+	SpearProjectile.DisplayName: Spear Projectile
+	minihakkerobeam.DisplayName: minihakkerobeam
+	minihakkeroprojhold.DisplayName: minihakkeroprojhold
+	starthismfMinion.DisplayName: starthismf Minion
+	Minihakkerobeam.DisplayName: Minihakkerobeam
+	Minihakkeroprojhold.DisplayName: Minihakkeroprojhold
+	Enridemonaxeproj.DisplayName: Enridemonaxeproj
+}
+
+Buffs: {
+	starthismfBuff: {
+		DisplayName: Star This MF
+		Description: Get Starred Boi :3
+	}
+}

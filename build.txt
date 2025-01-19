@@ -1,0 +1,3 @@
+displayName = PMS
+author = uko
+version = 0.9
