@@ -3,7 +3,6 @@ Items: {
 		DisplayName: Spear of Koshitan
 		Tooltip:
 			'''
-
 			Strikes True
 			Burns Thy enemies
 			Electrifies Thou Who Shant Worship The Great One
@@ -14,25 +13,19 @@ Items: {
 		DisplayName: Mini Hakkero
 		Tooltip:
 			'''
-
 			from the land of the touhou women
 			this sphere seems to be emitting powerful magic
 			'''
 	}
 
 	ShikoAntlers: {
-		Tooltip:
-			'''
-
-			This antler radiates divine energy...
-			'''
+		Tooltip: This antler radiates divine energy...
 		DisplayName: Shiko Antlers
 	}
 
 	ItallianoDePizzaSword: {
 		Tooltip:
 			'''
-
 			Too hot for the touch...
 			and extra cheessssssyyyy
 			'''
@@ -43,7 +36,6 @@ Items: {
 		DisplayName: Star This MF Staff
 		Tooltip:
 			'''
-
 			You got 5 stars Lmao
 			You're now in the Church-of-Goofiness
 			'''
@@ -63,8 +55,8 @@ Items: {
 		Tooltip:
 			'''
 			Increases Movement speed Greatly
-			10 Defense
-			Gives 6 Regen When not under bleeding and potion sickness debuff, else, gives 4 Regen
+			Grants 10 Defense
+			Grants 6 Regen When not under bleeding and potion sickness debuff, else, Grants 4 Regen
 			'''
 	}
 
@@ -72,7 +64,7 @@ Items: {
 		DisplayName: Suspicious Shovel
 		Tooltip:
 			'''
-			Joker own this...
+			Joker owns this...
 			It's Probably a Good idea to give it back...
 			'''
 	}
@@ -80,6 +72,11 @@ Items: {
 	Durandal: {
 		DisplayName: Durandal
 		Tooltip: A holy sword fit for a Holy knight
+	}
+
+	Fumofacepin: {
+		DisplayName: Almighty Fumo Facepin
+		Tooltip: Grants Touhou-like Dodging (Close enough to that i guess)
 	}
 }
 
@@ -95,7 +92,12 @@ Projectiles: {
 
 Buffs: {
 	starthismfBuff: {
-		DisplayName: Star This MF
-		Description: Get Starred Boi :3
+		DisplayName: You Got Starred.
+		Description: The Purgatorians got YOU.
+	}
+
+	Boreddebuff: {
+		DisplayName: You Are Bored.
+		Description: Better start moving.
 	}
 }

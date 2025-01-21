@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("purgaytorymemebersuggestions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8abc0b2305420b7bd944944a78c21bf547d0afb0")]
 [assembly: System.Reflection.AssemblyProductAttribute("purgaytorymemebersuggestions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("purgaytorymemebersuggestions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
